@@ -6,12 +6,13 @@ Este repositório contém meus estudos, códigos e anotações sobre **Python, E
 Atualmente, o repositório possui os seguintes notebooks:
 
 ### 📥 **Importação de Arquivos**
-Notebook relacionados à **leitura e manipulação de diferentes tipos de arquivos** usados em análise de dados.
+Notebooks relacionados à **leitura e manipulação de diferentes tipos de arquivos** usados em análise de dados.
 
 - `import_files.ipynb` → Explicação sobre a importação de arquivos **Excel, Pickle, CSV e outros formatos** usando Python e Pandas.
+- `Importing_flat_files_from_the_web.ipynb` → Demonstra como baixar arquivos CSV e JSON diretamente da web usando `requests` e `urllib`, além de manipular os dados com Pandas.
 
 ### 🗄️ **Conectando a um Banco de Dados Relacional**
-Notebook sobre **conexão e manipulação de bancos de dados relacionais** com SQLAlchemy.
+Notebooks sobre **conexão e manipulação de bancos de dados relacionais** com SQLAlchemy.
 
 - `Connecting_to_a_relational_database.ipynb` → Demonstra como conectar a um banco de dados **SQLite** no Google Colab, listar tabelas e carregar dados em um DataFrame Pandas.
 
@@ -30,9 +31,8 @@ Caso precise instalar alguma biblioteca usada nos notebooks, utilize:
 
 ## 📚 **Recursos e Referências**
 - [Documentação do Pandas](https://pandas.pydata.org/docs/)
-- [Guia do Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
-- [Documentação do Apache Spark](https://spark.apache.org/docs/latest/)
-- [Power BI - Microsoft Learn](https://learn.microsoft.com/pt-br/power-bi/)
+- [Documentação do SQLAlchemy](https://docs.sqlalchemy.org/en/14/)
+- [Documentação do Requests](https://docs.python-requests.org/en/latest/)
 
 ## 📢 **Contribuições**
 Se você encontrar melhorias, bugs ou quiser adicionar conteúdo, fique à vontade para abrir um **Pull Request** ou criar uma **Issue**.
