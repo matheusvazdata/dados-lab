@@ -38,7 +38,7 @@ Caso precise instalar alguma biblioteca usada nos notebooks, utilize:
 - [Documentação do Pandas](https://pandas.pydata.org/docs/)
 - [Documentação do SQLAlchemy](https://docs.sqlalchemy.org/en/14/)
 - [Documentação do Requests](https://docs.python-requests.org/en/latest/)
-- [https://www.omdbapi.com/](https://www.omdbapi.com/)
+- [Documentação da API OMDb](https://www.omdbapi.com/)
 
 ## 📢 **Contribuições**
 Se você encontrar melhorias, bugs ou quiser adicionar conteúdo, fique à vontade para abrir um **Pull Request** ou criar uma **Issue**.
