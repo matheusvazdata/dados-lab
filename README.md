@@ -16,6 +16,11 @@ Notebooks sobre **conexão e manipulação de bancos de dados relacionais** com 
 
 - `Connecting_to_a_relational_database.ipynb` → Demonstra como conectar a um banco de dados **SQLite** no Google Colab, listar tabelas e carregar dados em um DataFrame Pandas.
 
+### 🔑 **Autenticação e Consumo de APIs**
+Notebooks sobre **interação com APIs externas, autenticação e coleta de dados da web**.
+
+- `APIs_authentication_and_interacting_with_the_world_wide_web.ipynb` → Explica como autenticar e consumir dados da API **OMDb** (The Open Movie Database), coletando informações de filmes, suas notas IMDb e armazenando os dados em um DataFrame Pandas.
+
 ## 🚀 **Como Usar este Repositório**
 Se você deseja executar os notebooks diretamente no **Google Colab**, basta abrir o arquivo no GitHub e clicar no botão "Abrir no Colab".
 
@@ -33,6 +38,7 @@ Caso precise instalar alguma biblioteca usada nos notebooks, utilize:
 - [Documentação do Pandas](https://pandas.pydata.org/docs/)
 - [Documentação do SQLAlchemy](https://docs.sqlalchemy.org/en/14/)
 - [Documentação do Requests](https://docs.python-requests.org/en/latest/)
+- [https://www.omdbapi.com/](https://www.omdbapi.com/)
 
 ## 📢 **Contribuições**
 Se você encontrar melhorias, bugs ou quiser adicionar conteúdo, fique à vontade para abrir um **Pull Request** ou criar uma **Issue**.
